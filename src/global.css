@@ -1,0 +1,15 @@
+html,
+body {
+  background-color: white;
+  color: #282828;
+}
+
+body {
+  position: relative;
+  min-height: 100%;
+  margin: 0;
+  padding-bottom: 6rem;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
